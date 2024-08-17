@@ -133,9 +133,15 @@ unset key
 # MY CONFIGURATIONS
 
 # Aliases
-alias vim="nvim"
-alias vi="nvim"
+alias vim='nvim'
+alias vi='nvim'
 alias vimdiff='nvim -d'
+alias cat='batcat'
+alias top='glances'
+alias htop='glances'
+alias ls='lsd'
+alias grep='rg'
+alias find='echo "Use fd"'
 
 # Exports
 export EDITOR=nvim
