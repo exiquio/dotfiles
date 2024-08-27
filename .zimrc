@@ -60,4 +60,5 @@ zmodule zsh-users/zsh-autosuggestions
 zmodule spaceship-prompt/spaceship-prompt --name spaceship --no-submodules
 
 # Productivity
-zmodule fzf
+# TODO: Uncomment when fzf 0.48 is released on distro
+# zmodule fzf

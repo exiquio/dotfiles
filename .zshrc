@@ -145,3 +145,4 @@ alias find='echo "Use fd"'
 
 # Exports
 export EDITOR=nvim
+export PATH=$PATH:$HOME/bin
