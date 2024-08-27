@@ -3,6 +3,7 @@
 .bashrc
 .cache/
 .config/
+.fontconfig/
 .fonts/
 .gnome/
 .gnupg/
