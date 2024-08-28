@@ -33,3 +33,9 @@ snap/
 .xsession-errors
 .xsession-errors.old
 Templates/
+.clamtk/
+Documents
+Insync/
+Music
+Pictures
+Videos
