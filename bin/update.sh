@@ -4,13 +4,14 @@
 
 printf "APT:\n\n";
 sudo apt update
-printf "\n*****Done******\n";
+sudo apt upgrade
+printf "\n*****Done******\n\n";
 
 # Snap
 
 printf "Snap:\n";
 snap refresh --list
-printf "\n*****Done******\n";
+printf "\n*****Done******\n\n";
 
 # Flatpak
 
