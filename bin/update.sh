@@ -10,7 +10,7 @@ printf "\n*****Done******\n\n";
 # Snap
 
 printf "Snap:\n";
-snap refresh --list
+snap refresh
 printf "\n*****Done******\n\n";
 
 # Flatpak
